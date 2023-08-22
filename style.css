@@ -1,0 +1,62 @@
+.container{ 
+    margin-left: 350px;
+    margin-top: 40px;
+    padding: 90px;
+    width: 600px;
+    height: 400px;
+    background-color: rgb(237, 159, 207);
+    border-radius: 30px;
+   
+}
+button{
+    padding: 10px 20px;
+}
+label{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+    padding: 10px 50px;
+    border-radius: 10px;
+    margin-top: 7px;
+}
+#username{
+    margin-left: 98px; ;
+}
+
+#fname{
+    margin-left: 99px; 
+}
+
+#lname{
+    margin-left: 100px; 
+}
+
+#pw{
+    margin-left: 108px; 
+}
+
+#email{
+    margin-left: 154px; 
+}
+
+ #male{
+   width: 20px;
+   height: 20px;
+   margin-left: 140px;
+}
+#female{
+    width: 20px;
+    height: 20px;
+    margin-left: 100px;
+ }
+ #accept{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+ }
+ #re{
+    border-radius: 5px;
+    margin-left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
